@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback, ChangeEvent } from "react";
-// There are some bad practices in the code below. Can you find them and fix them?
+// There are some bad practices/bugs in the code below. Can you find them and fix them?
 // Bonus: Fix all any types in the code below.
 
 type Column = {
